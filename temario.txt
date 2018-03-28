@@ -1,4 +1,4 @@
-Curso Node.js: Desarrollo de software profesional
+Alejandro Páez - Curso Node.js: Desarrollo de software profesional
 
 - Bienvenida
 - Herramientas y entorno de desarrollo
